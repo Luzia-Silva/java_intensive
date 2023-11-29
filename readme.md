@@ -7,7 +7,8 @@ porque terão assuntos mais importantes para serem abordados nesse percuso de 10
 - Unitary tests
 - Creating a CRUD
 
-Esse é o plano desenvolvido, porém nem todos os assuntos listados serão vistos
+Esse é o **[Plano de estudos Dev Backend -
+Java](https://drive.google.com/file/d/1q_02V82c5papHp1wntXgrIJ2VGTwArqg/view?source=post_page-----344de9fc5f76--------------------------------)**, porém nem todos os assuntos listados serão vistos
 nesse período.
 
 ###  Intensivo para reforçar conhecimentos
@@ -23,3 +24,6 @@ nesse período.
 
 ###  Lista de Exercícios
  - [Lista de Exercicios Básicos](https://docentes.ifrn.edu.br/nickersonferreira/disciplinas/fundamentos-de-logica-e-algoritmos-1o-ano-info/lista-de-exercicios-java-basico/at_download/file)
+
+-------------------------------------------
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
