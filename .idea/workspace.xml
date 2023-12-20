@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1282a872-40e0-462f-b287-cf6f283bb725" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AutenticationUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Livro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CalculateIMC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/list/CalculateIMC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CalculateYearsUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/list/CalculateYearsUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/list/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ElectronicBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/list/ElectronicBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LandArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/list/LandArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/list/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -38,21 +50,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/luzia-santos/Downloads/Cream Blue Simple Email Header.png",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/luzia-santos/Downloads/Cream Blue Simple Email Header.png&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="java_intensive" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +89,14 @@
       <updated>1701131891850</updated>
       <workItem from="1701179051776" duration="686000" />
       <workItem from="1701217728235" duration="5780000" />
-      <workItem from="1701263943846" duration="6249000" />
+      <workItem from="1701263943846" duration="10355000" />
+      <workItem from="1701911223668" duration="1527000" />
+      <workItem from="1702560856803" duration="314000" />
+      <workItem from="1702562336489" duration="1347000" />
+      <workItem from="1702923311624" duration="337000" />
+      <workItem from="1702991151438" duration="599000" />
+      <workItem from="1703018821873" duration="1471000" />
+      <workItem from="1703097159466" duration="1663000" />
     </task>
     <task id="LOCAL-00001" summary="Criação readme e CalculateYearsUser">
       <option name="closed" value="true" />
@@ -81,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701269801706</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Insersão do link para Plano de estudos">
+      <option name="closed" value="true" />
+      <created>1701273356399</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701273356399</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +142,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criação readme e CalculateYearsUser" />
     <MESSAGE value="Novas informações no redme e criação de class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Novas informações no redme e criação de class" />
+    <MESSAGE value="Insersão do link para Plano de estudos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Insersão do link para Plano de estudos" />
   </component>
 </project>

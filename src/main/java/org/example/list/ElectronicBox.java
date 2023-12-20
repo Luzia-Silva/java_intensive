@@ -1,4 +1,4 @@
-package org.example;
+package org.example.list;
 
 public class ElectronicBox {
     public static void main(String args[]){

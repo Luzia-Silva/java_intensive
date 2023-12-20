@@ -1,4 +1,4 @@
-package org.example;
+package org.example.list;
 
 import javax.swing.*;
 import java.text.DecimalFormat;

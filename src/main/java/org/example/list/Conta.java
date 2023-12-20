@@ -1,4 +1,4 @@
-package org.example;
+package org.example.list;
 public class Conta {
     public static void main(String[] args) {
         User user = new User();

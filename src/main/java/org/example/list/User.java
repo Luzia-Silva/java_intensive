@@ -1,4 +1,4 @@
-package org.example;
+package org.example.list;
 
 class User {
     int numero;
