@@ -1,0 +1,28 @@
+Exercícios de Map:
+Contagem de Palavras:
+Escreva um programa que receba uma frase como entrada e conte quantas vezes cada palavra aparece na frase. Utilize um Map para armazenar a contagem de cada palavra.
+
+Gerenciamento de Notas:
+Crie um programa que armazene o nome de alunos e suas respectivas notas em um Map. Permita que o usuário busque a nota de um aluno específico pelo nome.
+
+Exercícios de Set:
+Remoção de Duplicatas:
+Escreva um programa que receba uma lista de números e remova os elementos duplicados, armazenando apenas os valores únicos em um Set.
+
+Conjunto de Estudantes:
+Crie um conjunto (Set) de objetos Estudante, onde Estudante é uma classe com atributos como nome, idade, e número de identificação. Garanta que não haja estudantes duplicados no conjunto.
+
+Exercícios de List:
+Ordenação de Números:
+Escreva um programa que crie uma lista de números inteiros desordenados e ordene essa lista em ordem crescente.
+
+Listas Combinadas:
+Crie duas listas de strings e combine-as em uma terceira lista, alternando os elementos de cada lista.
+
+Estes exercícios podem ajudar a praticar e entender melhor como usar Map, Set e List em Java. Se precisar de mais detalhes sobre algum exercício específico ou exemplo de código para começar, estou aqui para ajudar!
+
+
+
+
+
+
